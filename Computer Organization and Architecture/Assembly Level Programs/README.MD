@@ -5,7 +5,7 @@ Contributer
 Shushant Kumar
 
 This directory contains 8 directories containing 8 programs.
-The programs are:
+The programs are :
 
 1.Loading two 32b constants on to $t0 and $t1. Adding them and storing the result in $t2.<br>
 2. Loading a 32b constant in the memory location pointed to by the global pointer. Loading another 32b constant in the first memory location of the data segment. Adding them both and saving the sum in the 100th word of the data segment.<br>
