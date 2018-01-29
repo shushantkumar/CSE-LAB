@@ -1,5 +1,5 @@
 <h3>Computer Organization and Architecture 200 </h3>
-<h4>Assignment1</h4>
+<h4>Assignment</h4>
 
 Contributer
 Shushant Kumar
