@@ -1,7 +1,7 @@
 <h3>Computer Organization and Architecture </h3>
 <h4></h4>
 
-Contributer - 
+Contributer-
 Shushant Kumar
 
 This directory contains 8 directories containing 8 programs.
